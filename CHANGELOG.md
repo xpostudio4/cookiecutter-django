@@ -2,6 +2,10 @@
 All enhancements and patches to Cookiecutter Django will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2016-05-05]
+### Changed
+- Use "maxcdn" instead of "rawgit" link to bootstrap4 alpha2 (@luzfcb)
+
 ## [2016-05-03]
 ### Changed
 - Update version of Django, django-extensions, django-mailgun (@luzfcb)
